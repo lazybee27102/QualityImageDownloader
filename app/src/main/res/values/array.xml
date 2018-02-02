@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="url">
+        <item>
+            https://pixabay.com/get/eb32b40a21f4093ecd1f420ce6454296e46ae3d018b6144791f6c77c/sea-2755908.jpg
+        </item>
+        <item>
+            https://pixabay.com/get/eb32b40a21f4093ecd1f420ce6454296e46ae3d018b6144791f6c77c/sea-2755908.jpg
+        </item>
+        <item>
+            https://pixabay.com/get/eb32b40a21f4093ecd1f420ce6454296e46ae3d018b6144791f6c77c/sea-2755908.jpg
+        </item>
+    </string-array>
+</resources>
